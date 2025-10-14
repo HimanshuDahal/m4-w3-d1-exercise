@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component performs snapshot testing 1`] = `
+<div>
+  <h2>
+    Register Form
+  </h2>
+  <input
+    type="text"
+  />
+  <button>
+    Submit
+  </button>
+</div>
+`;
